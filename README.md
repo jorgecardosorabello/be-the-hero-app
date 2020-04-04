@@ -16,7 +16,7 @@
 [Server](https:// COMPLETAR AQUI .herokuapp.com/ AQUI TAMBÉM )
 
 ## Download
-<a href="https://github.com/daltonmenezes/be-the-hero/releases/download/v1.0.0/dalton-menezes-be-the-hero.apk"><img src=".github/android-icon.png" alt="download apk for android" width="50"/></a>
+<a href=" ARRUMAR AQUI "><img src=".github/android-icon.png" alt="download apk for android" width="50"/></a>
 
 # Development setup
 
@@ -24,22 +24,22 @@
 
 After cloning this repo:
 ### Server 
-  - Run ```yarn``` in the ```server``` folder
+  - Run ```npm``` in the ```backend``` folder
   - Go back to the root folder
-  - Run ```yarn dev:server``` to up the server
-  - Open ```Insomnia``` or ```Postman``` and import the ```Insomnia.json``` workspace file at ```server``` folder
-  - Use it! :D
+  - Run ```npm dev:backend``` to up the server
+  - Open ```Insomnia``` and import the ```Insomnia.json``` workspace file at ```backend``` folder
+  - Use it!
 ### Website
-  - Run ```yarn``` in the ```website``` folder
+  - Run ```npm``` in the ```frontend``` folder
   - Go back to the root folder
-  - Run ```yarn dev:web``` to up the project
+  - Run ```npm dev:frontend``` to up the project
 ### Mobile
-  - Run ```yarn``` in the ```mobile``` folder
+  - Run ```npm``` in the ```mobile``` folder
   - Update the ```baseURL``` at ```src/config/index.js```
   - Go back to the root folder
   - Run ```npm dev:mobile``` to up the project
 
 # Tests
 ### Server
-  - Run ```npm test:server``` at the root folder
+  - Run ```npm test:backend``` at the root folder
   
