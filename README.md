@@ -5,7 +5,7 @@
   App to help NGOs built with ReactJS, React Native, Node.js and more.
   </p>
 
-  <img src=".mobile/assets/bannerlight.png" />
+  <img src="mobile/assets/bannerlight.png" />
 
   > This project was made for learning purposes only and comes from Rocketseat's omnistack week crash course #11 with my own modifications
 </p>
